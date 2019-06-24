@@ -3,6 +3,7 @@
 # Ignore files
 **/log
 **/output
+!/simple/output
 **/trained_model
 **/weights
 **/out
