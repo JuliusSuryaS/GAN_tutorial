@@ -1,0 +1,10 @@
+# Ignore any cache
+**/__pycache__
+# Ignore files
+**/log
+**/output
+**/trained_model
+**/weights
+**/out
+# Ignore Intellij
+**/.idea
